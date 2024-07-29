@@ -1,0 +1,200 @@
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+img {
+    display: block;
+}
+
+/* header */
+
+.header-logo {
+    font-family: "DM Serif Display", serif;
+}
+
+.nav-item {
+    font-family: "Jost", sans-serif;
+}
+
+/* hero */
+
+.hero-title {
+    font-family: "DM Serif Display", serif;
+}
+
+.hero-paragraph {
+    font-family: "Jost", sans-serif;
+}
+
+.hero-span {
+    font-family: "Jost", sans-serif;
+}
+
+/* features */
+
+.features-title {
+    font-family: "DM Serif Display", serif;
+}
+
+.features-paragraph {
+    font-family: "Jost", sans-serif;
+}
+
+.features-button {
+    font-family: "Jost", sans-serif;
+}
+
+/* design */
+
+.design-title {
+    font-family: "DM Serif Display", serif;
+}
+
+.design-paragraph {
+    font-family: "Jost", sans-serif;
+}
+
+.design-subparagraph {
+    font-family: "Jost", sans-serif;
+}
+
+.design-span {
+    font-family: "Jost", sans-serif;  
+}
+
+/* clients */
+
+.clients-title {
+    font-family: "DM Serif Display", serif;
+}
+
+.clients-subtitle {
+    font-family: "DM Serif Display", serif;
+}
+
+.clients-paragpaph {
+    font-family: "Jost", sans-serif;  
+}
+
+.clients-text {
+    font-family: "Jost", sans-serif;  
+}
+
+/* brands */
+
+/* projects */
+
+.projects-title {
+    font-family: "DM Serif Display", serif;
+}
+
+.projects-paragraph{
+    font-family: "Jost", sans-serif;
+}
+
+.projects-subtitle{
+    font-family: "DM Serif Display", serif;
+}
+
+.projects-text{
+    font-family: "Jost", sans-serif;
+}
+
+/* numbers */
+
+.numbers-title{
+    font-family: "DM Serif Display", serif;
+}
+
+.numbers-paragraph{
+    font-family: "Jost", sans-serif;
+}
+
+/* blog */
+
+.blog-title{
+    font-family: "DM Serif Display", serif;
+}
+
+.blog-paragraph{
+    font-family: "Jost", sans-serif;
+}
+
+.blog-subtitle{
+    font-family: "DM Serif Display", serif;
+}
+
+.blog-text{
+    font-family: "Jost", sans-serif;
+}
+
+/* contactus */
+
+.contactus-title{
+    font-family: "DM Serif Display", serif;
+}
+
+.contactus-paragraph{
+    font-family: "Jost", sans-serif;
+}
+
+.contactus-button{
+    font-family: "Jost", sans-serif;
+}
+
+/* footer */
+
+/* interno */
+
+.interno-link{
+    font-family: "DM Serif Display", serif;
+}
+
+.interno-paragraph{
+    font-family: "Jost", sans-serif;
+}
+
+/* pages */
+
+.pages-title{
+    font-family: "DM Serif Display", serif;
+}
+
+.pages-item{
+    font-family: "Jost", sans-serif;
+}
+
+/* explore */
+
+.explore-title{
+    font-family: "DM Serif Display", serif;
+}
+
+.explore-item{
+    font-family: "Jost", sans-serif;
+}
+
+/* contact */
+
+.contact-title{
+    font-family: "DM Serif Display", serif; 
+}
+
+.contact-address{
+    font-family: "Jost", sans-serif;
+}
+
+.contact-link {
+    font-family: "Jost", sans-serif;
+}
+
+.footer-copyright {
+    font-family: "Jost", sans-serif;
+}
