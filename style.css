@@ -718,6 +718,10 @@ width: 140px;
 
 /* footer */
 
+.footer-lists {
+    border-bottom: 2px solid #F4F0EC;
+}
+
 .footer-box {
     display: flex;
     /* gap: 16px; */
@@ -846,7 +850,7 @@ letter-spacing: 0.22px;
 }
 
 .copyright-box {
-    margin-top: 80px;
+    /* margin-top: 80px; */
 }
 
 .copyright-box {
@@ -860,6 +864,6 @@ letter-spacing: 0.22px;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.22px;
-/* margin-right: 206px;
-margin-left: 206px; */
+margin-right: 206px;
+margin-left: 206px;
 }
