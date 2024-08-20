@@ -55,7 +55,7 @@ body {
 
 .clients {
     padding-top: 103px;
-    padding-bottom: 121px;
+    padding-bottom: 10px;
 }
 
 .brands {
@@ -720,6 +720,7 @@ width: 140px;
 
 .footer-lists {
     border-bottom: 2px solid #F4F0EC;
+    padding-bottom: 40px;
 }
 
 .footer-box {
